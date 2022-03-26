@@ -5,7 +5,7 @@ Meet the Pokémon of the Krita region.
 
 ## Contribute
 
-If you like this project, please consider visiting the twitter account <a href="http://twitter.com/kritaregion">twitter</a>. <3
+If you like this project, please consider visiting the <a href="http://twitter.com/kritaregion">twitter</a> account. <3
 
 Pokémon is &copy; of Nintendo, 1995-2021.
 
