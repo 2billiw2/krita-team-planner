@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A team planner tool for the mainline Pokémon games.">
+    <title>Pokémon Team Planner: Game Picker</title>
+    <link rel="shortcut icon" href="static/favicon.ico">
+    <link rel="stylesheet" href="https://unpkg.com/sanitize.css">
+    <link rel="stylesheet" href="https://unpkg.com/sanitize.css/typography.css">
+    <link rel="stylesheet" href="static/style.css">
+    <script src="static/js/main.js" type="module"></script>
+</head>
 
-You can use the [editor on GitHub](https://github.com/2billiw2/krita-team-planner/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2billiw2/krita-team-planner/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<body>
+<article id="team-planner">
+    <div id="head">
+        <header>
+            <h1><span class="name">Pokémon</span> Team Planner</h1>
+        </header>
+    </div>
+    <div id="tail">
+        <footer>
+            <p>
+                © of <a href="http://twitter.com/richi3f">richi3f</a>, <time datetime="2016">2016</time>-<time datetime="2022">2022</time><br> © of <a href="http://twitter.com/_billiw_">billiw</a>, <a href="http://twitter.com/kritaregion">krita</a>, <time datetime="2022">2022</time><br>
+                Pokémon is © of Nintendo, <time datetime="1995">1995</time>-<time datetime="2022">2022</time>
+            </p>
+        </footer>
+    </div>
+</article>
+</body>
+</html>
