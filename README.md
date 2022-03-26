@@ -1,7 +1,7 @@
 # Pokémon Team Planner
 A non-competitive team planner tool for mainline Pokémon games.
 
-Current version supports all games from Generation VI onwards. **[Start selecting a game→](https://richi3f.github.io/pokemon-team-planner/)**
+**[Start planning your team→](https://richi3f.github.io/pokemon-team-planner/)**
 
 ## Contribute
 
